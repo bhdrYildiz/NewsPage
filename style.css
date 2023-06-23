@@ -136,3 +136,11 @@ section#news-bottom{
     font-size: 12px;
     color: var(--Dark-grayish-blue);
 }
+.new-image img{
+    flex: 1;
+    height: 150px;
+    margin-bottom: 10px;
+}
+.new-body{
+    flex: 1;
+}
